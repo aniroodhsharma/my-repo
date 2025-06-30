@@ -1,3 +1,4 @@
 # my-repo
 <br>
-author -aniroodh sharma
+author -aniroodh (nit dgp)
+
